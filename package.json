@@ -1,0 +1,19 @@
+{
+  "name": "treehouse-techdegree-fsjs-project-6",
+  "version": "1.0.0",
+  "description": "treehouse-techdegree-fsjs-project-6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHG777000/treehouse-techdegree-fsjs-project-6.git"
+  },
+  "author": "Jacob Gordon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-6/issues"
+  },
+  "homepage": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-6#readme"
+}
