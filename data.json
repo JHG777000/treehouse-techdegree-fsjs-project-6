@@ -3,7 +3,19 @@
 
     {
       "id": 0,
-      "project_name": "name",
+      "project_name": "A Random Quote Generator",
+      "description": "Randomly displays quotes, every 10 seconds and when a 'Show another quote' button is pressed. Randomly changes background color when a quote is displayed. Never displays the same quote or color in a row.",
+      "technologies": ["JavaScript","HTML"],
+      "live_link": "https://jhg777000.github.io/treehouse-techdegree-fsjs-project-1/",
+      "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-1",
+      "image_urls": [
+        "/static/images/proj1-1.png",
+        "/static/images/proj1-2.png"]
+    },
+
+    {
+      "id": 1,
+      "project_name": "name2",
       "description": "",
       "technologies": ["",""],
       "live_link": "",
