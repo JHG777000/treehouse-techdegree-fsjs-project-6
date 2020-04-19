@@ -23,6 +23,6 @@ block content
     each val in projects
      .cell
       a(href='project/' + val.id)
-       img.thumbnail(src='https://placehold.it/550x550')
+       img.thumbnail(src=val.image_urls[0])
        h5=val.project_name    
       
