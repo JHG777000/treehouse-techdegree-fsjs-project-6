@@ -10,17 +10,60 @@
       "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-1",
       "image_urls": [
         "/static/images/proj1-1.png",
-        "/static/images/proj1-2.png"]
+        "/static/images/proj1-2.png"
+      ]
     },
 
     {
       "id": 1,
-      "project_name": "name2",
-      "description": "",
-      "technologies": ["",""],
-      "live_link": "",
-      "github_link": "",
-      "image_urls": ["",""]
+      "project_name": "treehouse-techdegree-fsjs-project-2",
+      "description": "Displays a searchable list of students with page navigation, will reset search results if nothing is inputed in the search bar.",
+      "technologies": ["JavaScript","DOM"],
+      "live_link": "https://jhg777000.github.io/treehouse-techdegree-fsjs-project-2/",
+      "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-2",
+      "image_urls": [
+        "/static/images/proj2-1.png",
+        "/static/images/proj2-2.png"
+      ]
+    },
+
+    {
+      "id": 2,
+      "project_name": "treehouse-techdegree-fsjs-project-3",
+      "description": "Interactive form for a fake 'Full Stack Conf'. All fields(Name,Email,checkboxes,CreditCard,Zip,CCV) have real time validation, and conditional error messages.",
+      "technologies": ["JavaScript","DOM"],
+      "live_link": "https://jhg777000.github.io/treehouse-techdegree-fsjs-project-3/",
+      "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-3",
+      "image_urls": [
+        "/static/images/proj3-1.png",
+        "/static/images/proj3-2.png"
+      ]
+    },
+
+    {
+      "id": 3,
+      "project_name": "treehouse-techdegree-fsjs-project-4",
+      "description": "PHRASE HUNTER game: Hunt for the hidden phrase. Randomly chooses hidden phrase. Never chooses the same hidden phrase in a row. Click on the on screen keyboard or use a real keyboard to guess letters of the hidden phrase.",
+      "technologies": ["JavaScript","DOM"],
+      "live_link": "https://jhg777000.github.io/treehouse-techdegree-fsjs-project-4/",
+      "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-4",
+      "image_urls": [
+        "/static/images/proj4-1.png",
+        "/static/images/proj4-2.png"
+      ]
+    },
+
+    {
+      "id": 4,
+      "project_name": "treehouse-techdegree-fsjs-project-5",
+      "description": "Public API Requests, gets and displays 12 employees.",
+      "technologies": ["JavaScript","DOM","JavaScript Promises","JavaScript Fetch API"],
+      "live_link": "https://jhg777000.github.io/treehouse-techdegree-fsjs-project-5/",
+      "github_link": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-5",
+      "image_urls": [
+        "/static/images/proj5-1.png",
+        "/static/images/proj5-2.png"
+      ]
     }
   ]
 
