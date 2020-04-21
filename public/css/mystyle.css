@@ -1,0 +1,17 @@
+.portfolio-me {
+    color: aqua;
+    background: #0c36aa;
+  }
+
+  .portfolio-intro {
+   color: blueviolet;   
+   background-color: #c2c5cc;
+  }
+
+  .portfolio-index {    
+   background-color: #c2c5cc;
+  }
+
+  h1,h2,h3,h4,h5,p{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
