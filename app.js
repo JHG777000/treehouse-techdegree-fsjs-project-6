@@ -1,3 +1,8 @@
+/************************************************
+Treehouse Techdegree:
+FSJS project 6 - Portfolio for Previous Projects
+************************************************/
+
 const express = require('express');
 const data = require('./data.json');
 const app = express();
@@ -20,6 +25,7 @@ app.get('/project/:id',(req,res,next) => {
         || !Number.isInteger(parseInt(req.params.id))) {
         const err =  new Error('No project with that id exists.');
         err.status = 500;
+        console.log(err.status + ': No project with that id exists.');
         return next(err);
     }
     res.render('project',{
@@ -30,6 +36,7 @@ app.get('/project/:id',(req,res,next) => {
 app.use((req,res,next) => {
     const err =  new Error('The page you requested, can not be found.');
     err.status = 404;
+    console.log(err.status + ': The page you requested, can not be found.');
     next(err);
 });
 
