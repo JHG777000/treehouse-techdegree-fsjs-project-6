@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/JHG777000/treehouse-techdegree-fsjs-project-6.git"
   },
+  "engines": {
+    "node": "v13.12.0"
+  },
   "author": "Jacob Gordon",
   "license": "MIT",
   "bugs": {
