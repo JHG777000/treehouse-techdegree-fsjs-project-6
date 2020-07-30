@@ -7,6 +7,8 @@ const express = require('express');
 const data = require('./data.json');
 const app = express();
 
+const port = process.env.PORT || 3000;
+
 app.set('view engine', 'pug');
 
 app.use('/static',express.static('public'));
@@ -46,6 +48,6 @@ app.use((err,req,res,next) => {
     res.render('error');
 });
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log('App running on port: "3000"');
 });
